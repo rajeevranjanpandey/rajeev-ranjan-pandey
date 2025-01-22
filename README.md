@@ -12,7 +12,7 @@
 
 <hr><br>
 
-### 💫 My Website: [Visit Here](#)
+### 💫 My Website: [rajeevranjanpandey.github.io](#)
 
 ### 🌟 Don't forget to follow and star my repositories!
 
@@ -22,13 +22,10 @@
 
 <img width=100% title="Rajeev's GitHub" alt="Rajeev's GitHub" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25&height=150&section=header&text=Rajeev-Ranjan-Pande&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<p align="center">
- <a href="https://www.linkedin.com/in/rajeev-ranjan-pande/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/></a>
- <a href="mailto:rajranjan.india@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="35"/></a>
-</p>
+
 
 <p align="center">
-<a href="https://github.com/Rajeev-Ranjan-Pande?tab=repositories"><img src="https://img.shields.io/badge/My_Repositories-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Rajeev-Ranjan-Pandey?tab=repositories"><img src="https://img.shields.io/badge/My_Repositories-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -53,12 +50,7 @@
 ### 🛠️ Languages | Frameworks | Tools:
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/>
 </p>
@@ -66,8 +58,8 @@
 ---
 
 ### 🌐 Connect with Me:
-- LinkedIn: [Rajeev Ranjan Pande](https://www.linkedin.com/in/rajeev-ranjan-pande/)
-- Email: [rajranjan.india@gmail.com](mailto:rajranjan.india@gmail.com)
+
+- Email: [rajeevr.kgp@gmail.com](rajeevr.kgpa@gmail.com)
 
 ---
 
