@@ -20,7 +20,7 @@
 
 <hr><br>
 
-<img width=100% title="Rajeev's GitHub" alt="Rajeev's GitHub" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25&height=150&section=header&text=Rajeev-Ranjan-Pande&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Rajeev's GitHub" alt="Rajeev's GitHub" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25&height=150&section=header&text=Rajeev-Ranjan-Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
 
