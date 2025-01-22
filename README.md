@@ -1,1 +1,74 @@
-# rajeev-ranjan-pandey
+<details> 
+  <summary align="center"><h2>$${\color{blue}🌟 Welcome to My GitHub Profile 🌟}$$</h2></summary>
+<h3> Hi there 👋 </h3>
+
+📫 Feel free to connect with me for collaborations, innovations, or discussions on topics like AI, engineering, and reverse engineering.
+
+⚡ This GitHub is dedicated to sharing innovative projects, research, and practical solutions to complex problems.
+
+👌 Don’t forget to follow me for more interesting repositories and updates.
+
+🙏 Your feedback and contributions are always appreciated!
+
+<hr><br>
+
+### 💫 My Website: [Visit Here](#)
+
+### 🌟 Don't forget to follow and star my repositories!
+
+</details>
+
+<hr><br>
+
+<img width=100% title="Rajeev's GitHub" alt="Rajeev's GitHub" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25&height=150&section=header&text=Rajeev-Ranjan-Pande&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/rajeev-ranjan-pande/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/></a>
+ <a href="mailto:rajranjan.india@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="35"/></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Rajeev-Ranjan-Pande?tab=repositories"><img src="https://img.shields.io/badge/My_Repositories-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajeev-ranjan-pande&label=Visitors&color=blue&style=flat" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/rajeev-ranjan-pande?label=Followers&style=flat&color=blue" alt="Followers"/>
+  <a href="https://github.com/Rajeev-Ranjan-Pande?tab=repositories&sort=stargazers">
+    <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=blue&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rajeev-ranjan-pande"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me:
+- 🔭 Researching **AI-Optimized Drones, Decentralized Energy Systems, and EV Charging Infrastructure**.
+- 🌱 Currently exploring **Blockchain, Combinatorial Optimization, and Deep Learning Models**.
+- 👯 Open to collaborating on innovative projects and impactful research.
+- 💬 Ask me about **Reverse Engineering, AI, and Energy Systems**.
+- ⚡ Fun fact: I love **cooking and exploring the depths of engineering**.
+
+---
+
+### 🛠️ Languages | Frameworks | Tools:
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/>
+</p>
+
+---
+
+### 🌐 Connect with Me:
+- LinkedIn: [Rajeev Ranjan Pande](https://www.linkedin.com/in/rajeev-ranjan-pande/)
+- Email: [rajranjan.india@gmail.com](mailto:rajranjan.india@gmail.com)
+
+---
+
+<img width=100% title="Footer" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
