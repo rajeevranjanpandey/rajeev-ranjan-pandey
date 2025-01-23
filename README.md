@@ -54,35 +54,38 @@
 </div>
 
 <!-- Embedded CSS Animations -->
-<style>
-  @keyframes glowText {
-    0%, 100% {
-      text-shadow: 0 0 5px #6c5ce7, 0 0 10px #a29bfe, 0 0 20px #81ecec;
+<head>
+  <style>
+    @keyframes glowText {
+      0%, 100% {
+        text-shadow: 0 0 5px #6c5ce7, 0 0 10px #a29bfe, 0 0 20px #81ecec;
+      }
+      50% {
+        text-shadow: 0 0 10px #74b9ff, 0 0 15px #00cec9, 0 0 25px #fd79a8;
+      }
     }
-    50% {
-      text-shadow: 0 0 10px #74b9ff, 0 0 15px #00cec9, 0 0 25px #fd79a8;
+    
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
     }
-  }
+    
+    @keyframes popIn {
+      0% {
+        transform: scale(0.8);
+        opacity: 0;
+      }
+      100% {
+        transform: scale(1);
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
 
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  @keyframes popIn {
-    0% {
-      transform: scale(0.8);
-      opacity: 0;
-    }
-    100% {
-      transform: scale(1);
-      opacity: 1;
-    }
-  }
-</style>
