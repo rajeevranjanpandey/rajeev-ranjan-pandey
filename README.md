@@ -1,80 +1,64 @@
-<!-- Main Container with Full Animation -->
-<div align="center" style="font-family: Arial, sans-serif; animation: fadeIn 3s;">
-  <h1 style="background: linear-gradient(90deg, #ff7eb3, #8e44ad); -webkit-background-clip: text; color: transparent; font-size: 3rem; animation: gradientFlow 5s infinite;">
-    🌟 Welcome to My GitHub Profile 🌟
-  </h1>
-  
-  <h3 style="animation: bounceIn 2s;">Hi there 👋</h3>
-  <p style="color: #333; font-size: 1.2rem; animation: fadeInUp 3s;">
+<details>
+  <summary align="center">
+    <h2 style="animation: fadeIn 2s infinite alternate;">$${\color{blue}🌟 Welcome to My GitHub Profile 🌟}$$</h2>
+  </summary>
+  <h3 align="center" style="animation: bounce 2s infinite;">Hi there 👋</h3>
+
+  <p style="text-align: center; animation: fadeInUp 1.5s;">
     📫 Feel free to connect with me for collaborations, innovations, or discussions on topics like AI, engineering, and reverse engineering.
   </p>
-</div>
-
-<!-- Animated Banner -->
-<img width="100%" title="Rajeev's GitHub" alt="Rajeev's GitHub" 
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Rajeev%20Ranjan%20Pandey&fontSize=45&fontAlignY=55&desc=Innovator%20|%20Engineer%20|%20Explorer&descAlignY=75&descAlign=50"/>
-
-<!-- About Me Section -->
-<div align="center" style="margin: 20px 0;">
-  <h2 style="color: #8e44ad; animation: fadeIn 4s;">👨‍💻 About Me:</h2>
-  <ul style="list-style-type: none; padding: 0; font-size: 1.2rem; text-align: left; max-width: 600px; margin: auto;">
-    <li style="animation: fadeInLeft 1.5s;">🔭 Researching <strong>AI-Optimized Drones, Decentralized Energy Systems, and EV Charging Infrastructure</strong>.</li>
-    <li style="animation: fadeInLeft 2s;">🌱 Currently exploring <strong>Blockchain, Combinatorial Optimization, and Deep Learning Models</strong>.</li>
-    <li style="animation: fadeInLeft 2.5s;">👯 Open to collaborating on innovative projects and impactful research.</li>
-    <li style="animation: fadeInLeft 3s;">💬 Ask me about <strong>Reverse Engineering, AI, and Energy Systems</strong>.</li>
-    <li style="animation: fadeInLeft 3.5s;">⚡ Fun fact: I love <strong>cooking and exploring the depths of engineering</strong>.</li>
-  </ul>
-</div>
-
-<!-- Skills Section -->
-<div align="center" style="margin: 20px 0;">
-  <h2 style="color: #3498db; animation: fadeIn 3s;">🛠️ Languages | Frameworks | Tools:</h2>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin: 10px; animation: rotate 2s linear infinite;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="60" style="margin: 10px; animation: pulse 3s infinite;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" style="margin: 10px; animation: swing 2s infinite;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="60" style="margin: 10px; animation: fadeInDown 2s;"/>
+  <p style="text-align: center; animation: fadeInUp 2s;">
+    ⚡ This GitHub is dedicated to sharing innovative projects, research, and practical solutions to complex problems.
   </p>
-</div>
+  <p style="text-align: center; animation: fadeInUp 2.5s;">
+    👌 Don’t forget to follow me for more interesting repositories and updates.
+  </p>
+  <p style="text-align: center; animation: fadeInUp 3s;">
+    🙏 Your feedback and contributions are always appreciated!
+  </p>
+</details>
 
-<!-- Contact Section -->
-<div align="center" style="margin: 20px 0; animation: fadeIn 5s;">
-  <h2 style="color: #e74c3c;">🌐 Connect with Me:</h2>
-  <p style="font-size: 1.2rem;">📧 Email: <a href="mailto:rajeevr.kgp@gmail.com">rajeevr.kgp@gmail.com</a></p>
-</div>
+<hr>
 
-<!-- Footer -->
+<!-- Animated Header -->
+<img width="100%" title="Rajeev's GitHub" alt="Rajeev's GitHub" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25&height=200&section=header&text=Rajeev-Ranjan-Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<p align="center">
+  <a href="https://github.com/rajeevranjanpandey?tab=repositories">
+    <img src="https://img.shields.io/badge/My_Repositories-000?style=for-the-badge&logo=github&logoColor=white" 
+      style="animation: pulse 2s infinite;">
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me:
+<ul>
+  <li>🔭 Researching <strong>AI-Optimized Drones, Decentralized Energy Systems, and EV Charging Infrastructure</strong>.</li>
+  <li>🌱 Currently exploring <strong>Blockchain, Combinatorial Optimization, and Deep Learning Models</strong>.</li>
+  <li>👯 Open to collaborating on innovative projects and impactful research.</li>
+  <li>💬 Ask me about <strong>Reverse Engineering, AI, and Energy Systems</strong>.</li>
+  <li>⚡ Fun fact: I love <strong>cooking and exploring the depths of engineering</strong>.</li>
+</ul>
+
+---
+
+### 🛠️ Languages | Frameworks | Tools:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="animation: rotate 2s linear infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" style="animation: scaleUp 2s infinite alternate;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="animation: swing 2s infinite ease-in-out;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" style="animation: bounceIn 2s infinite alternate;"/>
+</p>
+
+---
+
+### 🌐 Connect with Me:
+- Email: [rajeevr.kgp@gmail.com](mailto:rajeevr.kgp@gmail.com)
+
+---
+
+<!-- Animated Footer -->
 <img width="100%" title="Footer" alt="Footer" 
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
-
-<style>
-  @keyframes gradientFlow {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  @keyframes fadeInUp {
-    from { transform: translateY(20px); opacity: 0; }
-    to { transform: translateY(0); opacity: 1; }
-  }
-  @keyframes fadeInLeft {
-    from { transform: translateX(-20px); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  @keyframes rotate {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-  @keyframes pulse {
-    0%, 100% { transform: scale(1); opacity: 1; }
-    50% { transform: scale(1.1); opacity: 0.7; }
-  }
-  @keyframes swing {
-    0%, 100% { transform: rotate(0deg); }
-    50% { transform: rotate(10deg); }
-  }
-</style>
