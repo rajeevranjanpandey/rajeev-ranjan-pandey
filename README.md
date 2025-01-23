@@ -29,10 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeev-ranjan-pande&label=Visitors&color=blue&style=flat" alt="Visitors"/>
-  <img src="https://img.shields.io/github/followers/rajeev-ranjan-pande?label=Followers&style=flat&color=blue" alt="Followers"/>
-  <a href="https://github.com/Rajeev-Ranjan-Pande?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=blue&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rajeev-ranjan-pande"/>
+  <a href="https://github.com/rajeevranjanpandey?tab=repositories&sort=stargazers"
   </a>
 </p>
 
@@ -50,7 +47,7 @@
 ### 🛠️ Languages | Frameworks | Tools:
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/>
 </p>
