@@ -25,7 +25,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Rajeev-Ranjan-Pandey?tab=repositories"><img src="https://img.shields.io/badge/My_Repositories-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/rajeevranjanpandey?tab=repositories"><img src="https://img.shields.io/badge/My_Repositories-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
