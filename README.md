@@ -1,6 +1,6 @@
 <details>
   <summary align="center">
-    <h2 style="animation: fadeIn 2s infinite alternate;">$${\color{blue}🌟 Welcome to My GitHub Profile 🌟}$$</h2>
+    <h2 style="animation: fadeIn 2s infinite alternate;">$${\color{blue}🌟 Welcome 🌟}$$</h2>
   </summary>
   <h3 align="center" style="animation: bounce 2s infinite;">Hi there 👋</h3>
 
